@@ -1,0 +1,4 @@
+cync_event_leads.db
+__pycache__/
+*.pyc
+.env
